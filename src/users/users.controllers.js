@@ -7,7 +7,7 @@ const userDB = [{
       "last_name": "Bermudez",
       "email": "antonio@example.com",
       "password": "$2b$10$TNGcRFonQH98rVqFaBVfpOEEv2Xcu5ej14tWqKim3z3L6Tr.ZIaqC",
-      "phone": "23123123",
+      "phone": "52234234213",
       "birthday_date": "04/02/1998",
       "rol": "admin",
       "profile_image": "example.com/img/example.png",
